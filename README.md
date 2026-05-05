@@ -45,11 +45,6 @@ combining analysis with user-focused design.
 
 ---
 
-## 📈 GitHub Stats
-
-![Bhumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikakumaran&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikakumaran&layout=compact)
 
 ## 🔗 Connect with me
 [https://www.linkedin.com/in/bhumika-kumaran-825919321](https://www.linkedin.com/in/bhumika-kumaran-825919321?utm_source=share_via&utm_content=profile&utm_medium=member_android)
