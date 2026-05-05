@@ -22,8 +22,8 @@ combining analysis with user-focused design.
 
 
 **Design & Visualization:**
-- Canva  
-- Data Visualization Principles  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ---
 
 ## 📁 Featured Projects
