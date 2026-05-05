@@ -20,10 +20,10 @@ combining analysis with user-focused design.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
 **Design & Visualization:**
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge&logo=chartdotjs&logoColor=white)
+- Canva  
+- Data Visualization Principles  
+
 ---
 
 ## 📁 Featured Projects
