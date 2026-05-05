@@ -38,7 +38,7 @@ combining analysis with user-focused design.
 
 ---
 
-🎯 What I’m Working On
+## 🎯 What I’m Working On
 - Improving dashboard design skills  
 - Exploring advanced data visualization  
 - Building more real-world data analysis projects  
