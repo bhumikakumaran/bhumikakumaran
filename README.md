@@ -1,6 +1,6 @@
 ## Hi, I'm Bhumika 😊
 
-🔎 Exploring patterns | 📈 Explaining insights | 🎨 Designing how data is understood  
+🔎 Exploring patterns, 📈 Explaining insights, 🎨 Designing how data is understood  
 
 ## 👩‍💻 About Me
 Working with data to uncover insights and build intuitive dashboards,
